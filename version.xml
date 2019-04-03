@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<filelist curVersion="3.2.1">
+    <software version="3.2.1">
+        <file version="3.1.0" dir="" name="actuatorController.dll"/>
+        <file version="3.2.1" dir="" name="INNFOS Actuator Studio.exe"/>
+    </software>
+    <software version="3.2.0">
+        <file version="3.1.0" dir="" name="actuatorController.dll"/>
+        <file version="3.2.0" dir="" name="INNFOS Actuator Studio.exe"/>
+    </software>
+</filelist>
