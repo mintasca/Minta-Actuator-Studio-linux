@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<filelist curVersion="3.4.1">
+    <software info="Fix update bug." version="3.4.1">
+        <file dir="" name="INNFOS Actuator Studio" version="3.4.1"/>
+        <file dir="lib/" name="libActuatorController.so" version="3.4.2"/>
+        <file dir="lib/" name="libQt5PrintSupport.so.5" version="3.4.2"/>
+    </software>
+    <software info="add units." version="3.3.5">
+        <file dir="" name="INNFOS Actuator Studio" version="3.3.5"/>
+        <file dir="lib/" name="libActuatorController.so" version="3.4.1"/>
+    </software>
+
+</filelist>

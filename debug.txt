@@ -1,0 +1,4 @@
+please run logtool setting script to enable log!
+192.168.1.20s 1.6 h 2.0 version
+192.168.1.2s 1.6 h 2.0 version
+read to velocity limit
