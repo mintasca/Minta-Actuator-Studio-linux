@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<filelist curVersion="3.3.5">
+<filelist curVersion="3.4.1">
+    <software info="Fix update bug." version="3.4.1">
+        <file dir="" version="3.4.1" name="INNFOS Actuator Studio"/>
+        <file dir="lib/" version="3.4.2" name="libActuatorController.so"/>
+    </software>
     <software info="add units." version="3.3.5">
         <file dir="" version="3.3.5" name="INNFOS Actuator Studio"/>
         <file dir="lib/" version="3.4.1" name="libActuatorController.so"/>
